@@ -1,0 +1,3 @@
+﻿  TicTacToe.cpp
+C:\Projects\c++ nim\TicTacToe\TicTacToe\TicTacToe.cpp(164,10): warning C4101: 'input': unreferenced local variable
+  TicTacToe.vcxproj -> C:\Projects\c++ nim\TicTacToe\x64\Debug\TicTacToe.exe
